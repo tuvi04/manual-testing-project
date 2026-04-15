@@ -3,7 +3,7 @@
 ## Giới thiệu dự án
 Đây là dự án Mock Project tại **VTI Academy** về nền tảng kết nối nhà tuyển dụng và ứng viên. Repository này lưu trữ toàn bộ các tài liệu kiểm thử do tôi thực hiện trong quá trình học tập và thực hành vai trò **Intern Software Tester**.
 
-## 🛠 Kỹ năng thực hiện
+## Kỹ năng thực hiện
 - **Analysis:** Phân tích tài liệu SRS để hiểu luồng nghiệp vụ hệ thống.
 - **Test Design:** Thiết kế Test Cases sử dụng các kỹ thuật: Phân vùng tương đương, Phân tích giá trị biên.
 - **Execution:** Thực hiện kiểm thử thủ công, xác minh dữ liệu trong Database (SQL).
