@@ -11,6 +11,6 @@
 - **Defect Management:** Quản lý và theo dõi lỗi (Bug tracking) theo quy trình chuẩn.
 
 ## Danh mục tài liệu
-- **[TestCases/](./TestCases/)**: Chứa bộ Test Case chi tiết cho các module đăng tin, nộp đơn ứng tuyển.
+- **[TestCases/](./TestCases/)**: Chứa bộ Test Case chi tiết cho các module.
 - **[DefectLogs/](./DefectLogs/)**: Bảng theo dõi lỗi chi tiết (Bug ID, Severity, Priority, Status).
 - **[APITesting/](./APITesting/)**: Tài liệu xác minh dữ liệu qua API (JSON, Status Codes).
